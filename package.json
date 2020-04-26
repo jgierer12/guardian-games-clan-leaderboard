@@ -1,0 +1,23 @@
+{
+  "name": "guardian-games-clan-leaderboard",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@jgierer12/hooks": "^0.2.5",
+    "next": "9.3.5",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "styled-components": "^5.1.0",
+    "styled-reset": "^4.1.4",
+    "typeface-inter": "^3.12.0",
+    "use-debounce": "^3.4.2"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
